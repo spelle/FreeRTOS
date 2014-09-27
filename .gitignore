@@ -28,3 +28,6 @@
 *.x86_64
 *.hex
 /ATmega328P_16MHz/
+
+*.d
+*.lst
